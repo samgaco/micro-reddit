@@ -3,9 +3,7 @@ This is a simulation of a simple reddit-like application, only the back end has 
 
 
 ## License
-All source code in the [Ruby on Rails Tutorial](https://www.railstutorial.org/)
-is available jointly under the MIT License and the Beerware License. See
-[LICENSE.md](LICENSE.md) for details.
+See [LICENSE.md](LICENSE.md) for details.
 
 ## Getting started
 
