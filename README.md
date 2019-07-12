@@ -1,6 +1,10 @@
 # Micro Reddit Application
 This is a simulation of a simple reddit-like application, only the back end has been designed.
 
+The project implements a User model, a Post model and a Comment model and the goal was to work with ActiveRecord to build a coherent database.
+Hence, every User can have associated many posts and comments and every post can have associated many comments and only one user. 
+Every comment can only correspond to one unique user and one unique post.
+
 
 ## License
 See [LICENSE.md](LICENSE.md) for details.
